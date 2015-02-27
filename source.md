@@ -18,7 +18,7 @@ Slide:
 
 # Workflow
 
-<font size=5>Apuntes de la clase del 19 de Febrero de 2015 dada por el profesor John Higuera.</font>
+<font size=5>Apuntes de la clase del profesor John Higuera del 19 de febrero de 2015</font> 
 
 Slide:
 
