@@ -18,12 +18,56 @@ Slide:
 
 # Workflow
 
-Teacher:
+<font size=5>Apuntes de la clase del 19 de Febrero de 2015 dada por el profesor John Higuera.</font>
 
-Ing. John Higuera
+Slide:
 
+### Etapas del flujo de trabajo
 
-<font size=5>Notes from the class of 19 February 2015 given by Professor John Higuera.</font>
+1. Preproducción: Más que todo documentación.<!-- .element: class="fragment" data-fragment-index="1"-->
+
+2. Producción<!-- .element: class="fragment" data-fragment-index="2"-->
+
+    - Arte<!-- .element: class="fragment" data-fragment-index="2"-->
+
+	- Programación <!-- .element: class="fragment" data-fragment-index="2"-->
+
+3. Postproducción<!-- .element: class="fragment" data-fragment-index="3"-->
+
+Slide:
+
+###Preproducción 1
+
+**Story structure**: Comprende la *Biblie* y *Concept art*. 
+
+* En este momento de la preproducción no se aterrizan reglas ni metareglas.<!-- .element: class="fragment" data-fragment-index="1"-->
+
+* No se habla de mecánica ni botones.<!-- .element: class="fragment" data-fragment-index="2"-->
+
+* Aquí está presente el guionista.<!-- .element: class="fragment" data-fragment-index="3"-->
+
+* Se habla de la historia y los personajes.<!-- .element: class="fragment" data-fragment-index="4"-->
+
+Slide:
+
+###Preproducción 2
+
+* Biblie:
+
+    - Historia<!-- .element: class="fragment" data-fragment-index="1"-->
+
+	- Descripción del universo<!-- .element: class="fragment" data-fragment-index="2"-->
+	
+	- Game back story<!-- .element: class="fragment" data-fragment-index="3"-->
+
+Slide:
+
+###Preproducción 3
+
+* Biblie: Game back story
+
+- Si existe, la historia es mucho más sólida y se pueden derivar muchas cosas de esta.
+
 
 
 
