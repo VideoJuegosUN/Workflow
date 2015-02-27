@@ -40,7 +40,7 @@ Slide:
 
 **Story structure**: Comprende la *Biblie* y *Concept art*. 
 
-* En este momento de la preproducción no se aterrizan reglas ni metareglas.<!-- .element: class="fragment" data-fragment-index="1"-->
+* En este momento de la preproducción no se aterrizan reglas ni metarreglas.<!-- .element: class="fragment" data-fragment-index="1"-->
 
 * No se habla de mecánica ni botones.<!-- .element: class="fragment" data-fragment-index="2"-->
 
