@@ -64,9 +64,33 @@ Slide:
 
 ###Preproducción 3
 
-* Biblie: Game back story
+* Biblie: Game back story (1)
 
-- Si existe, la historia es mucho más sólida y se pueden derivar muchas cosas de esta.
+  - Si existe, la historia es mucho más sólida y se pueden derivar muchas cosas de esta.<!-- .element: class="fragment" data-fragment-index="1"-->
+  
+  - Lo que sustenta por qué una determinada circunstancia se está dando.<!-- .element: class="fragment" data-fragment-index="2"-->
+  
+  - Ejemplo: Star Wars<!-- .element: class="fragment" data-fragment-index="3"-->
+  
+    Hay cosas de la historia que no me muestran pero que sí están escritas.<!-- .element: class="fragment" data-fragment-index="3"-->
+    
+  - El jugador se puede ir encontrando en la historia elementos (como notas, grabaciones…) que le cuentan qué paso.<!-- .element: class="fragment" data-fragment-index="4"--> 
+    
+    Ej: Un desastre nuclear.<!-- .element: class="fragment" data-fragment-index="4"-->
+    
+Slide:
+
+###Preproducción 3
+
+* Biblie: Game back story (2)
+ 
+  - Otra manera de contextualizarlo es colocarle un video al jugador.<!-- .element: class="fragment" data-fragment-index="1"-->
+    
+  - Otra forma es ponerlo a jugar un fragmento de la prehistoria. <!-- .element: class="fragment" data-fragment-index="2"-->
+  
+    Ej: Super Metroid <!-- .element: class="fragment" data-fragment-index="2"-->
+
+
 
 
 
