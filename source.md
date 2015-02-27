@@ -199,8 +199,10 @@ Slide:
 
 * Diseño del personaje (4 de 4)
   - Rig: Huesos, los cuales obedecen a una jerarquía. Con los huesos aplicados al personaje, se 	podría empezar a animar.<!-- .element: class="fragment" data-fragment-index="1"-->
-  - Una herramienta para hacer rigging es [Mixamo](https://www.mixamo.com/). <!-- .element: class="fragment" data-fragment-index="2"-->
-  - En lo que se refiere a hacer personajes, también se tiene la herramienta  de código abierto 	llamada [Makehuman](http://www.makehuman.org/).<!-- .element: class="fragment" data-fragment-index="3"-->
-  - Propst: Con los que decoramos el ambiente.<!-- .element: class="fragment" data-fragment-index="4"-->
+  - Una herramienta para hacer rigging es:<!-- .element: class="fragment" data-fragment-index="2"--> 
+    [Mixamo](https://www.mixamo.com/). <!-- .element: class="fragment" data-fragment-index="2"-->
+  - En lo que se refiere a hacer personajes, también se tiene la herramienta  de código abierto 	llamada:<!-- .element: class="fragment" data-fragment-index="3"-->
+    [Makehuman](http://www.makehuman.org/).<!-- .element: class="fragment" data-fragment-index="3"-->
+  - Props: Con los que decoramos el ambiente.<!-- .element: class="fragment" data-fragment-index="4"-->
 
 
