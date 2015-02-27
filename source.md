@@ -36,7 +36,7 @@ Slide:
 
 Slide:
 
-###Preproducción 1
+###Preproducción (1 de 4)
 
 **Story structure**: Comprende la *Biblie* y *Concept art*. 
 
@@ -50,7 +50,7 @@ Slide:
 
 Slide:
 
-###Preproducción 2
+###Preproducción (2 de 4)
 
 * Biblie:
 
@@ -62,9 +62,9 @@ Slide:
 
 Slide:
 
-###Preproducción 3
+###Preproducción (3 de 4)
 
-* Biblie: Game back story (1)
+* Biblie: Game back story (1 de 2)
 
   - Si existe, la historia es mucho más sólida y se pueden derivar muchas cosas de esta.<!-- .element: class="fragment" data-fragment-index="1"-->
   
@@ -80,9 +80,9 @@ Slide:
     
 Slide:
 
-###Preproducción 3
+###Preproducción (4 de 4)
 
-* Biblie: Game back story (2)
+* Biblie: Game back story (2 de 2)
  
   - Otra manera de contextualizarlo es colocarle un video al jugador.<!-- .element: class="fragment" data-fragment-index="1"-->
     
